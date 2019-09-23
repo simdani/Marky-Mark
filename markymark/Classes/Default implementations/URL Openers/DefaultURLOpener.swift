@@ -5,7 +5,7 @@
 //  Created by Jim van Zummeren on 21/11/2018.
 //
 
-import Foundation
+import UIKit
 
 public class DefaultURLOpener: URLOpener {
 
